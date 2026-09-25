@@ -1,2 +1,3 @@
-frerf:w
-
+int main(){
+	return 0;
+}
